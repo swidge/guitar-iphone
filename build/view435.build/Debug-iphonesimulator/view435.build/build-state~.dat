@@ -1,0 +1,256 @@
+Tview435
+v7
+r0
+t320253926.983311
+cCheck dependencies
+cProcessInfoPlistFile /Users/mac/Documents/view435/build/Debug-iphonesimulator/view435.app/Info.plist view435-Info.plist
+cCompileXIB /Users/mac/Documents/view435/MainWindow.xib
+cCompileXIB /Users/mac/Documents/view435/view435ViewController.xib
+cProcessPCH /var/folders/7u/7uJ+y36XGnyfZ9WQYgmDFk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/view435_Prefix-cuowgvfcacnsudbnfdfbdmolvlny/view435_Prefix.pch.gch view435_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/view435.build/Debug-iphonesimulator/view435.build/Objects-normal/i386/main.o /Users/mac/Documents/view435/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/view435.build/Debug-iphonesimulator/view435.build/Objects-normal/i386/view435AppDelegate.o /Users/mac/Documents/view435/Classes/view435AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/view435.build/Debug-iphonesimulator/view435.build/Objects-normal/i386/view435ViewController.o /Users/mac/Documents/view435/Classes/view435ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/mac/Documents/view435/build/Debug-iphonesimulator/view435.app/view435 normal i386
+cGenerateDSYMFile /Users/mac/Documents/view435/build/Debug-iphonesimulator/view435.app.dSYM /Users/mac/Documents/view435/build/Debug-iphonesimulator/view435.app/view435
+cTouch /Users/mac/Documents/view435/build/Debug-iphonesimulator/view435.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/mac/Documents/view435/Classes/view435AppDelegate.h
+c000000004D6671C200000000000001D6
+t1298559426
+s470
+i<UIKit/UIKit.h>
+
+N/Users/mac/Documents/view435/Classes/view435AppDelegate.m
+c000000004D6671C20000000000000A8C
+t1298559426
+s2700
+i"view435AppDelegate.h"
+i"view435ViewController.h"
+
+N/Users/mac/Documents/view435/Classes/view435ViewController.h
+c000000004D66781B0000000000000172
+t1298561051
+s370
+i<UIKit/UIKit.h>
+
+N/Users/mac/Documents/view435/Classes/view435ViewController.m
+c000000004D66785F0000000000000633
+t1298561119
+s1587
+i"view435ViewController.h"
+
+N/Users/mac/Documents/view435/MainWindow.xib
+c000000004D6671C20000000000004E29
+t1298559426
+s20009
+
+N/Users/mac/Documents/view435/build/Debug-iphonesimulator/view435.app
+t1298561126
+s238
+
+N/Users/mac/Documents/view435/build/Debug-iphonesimulator/view435.app.dSYM
+t1298561126
+s102
+
+N/Users/mac/Documents/view435/build/Debug-iphonesimulator/view435.app/Info.plist
+t1298561122
+s591
+
+N/Users/mac/Documents/view435/build/Debug-iphonesimulator/view435.app/MainWindow.nib
+t1298561123
+s1123
+
+N/Users/mac/Documents/view435/build/Debug-iphonesimulator/view435.app/PkgInfo
+t1298561122
+s8
+
+N/Users/mac/Documents/view435/build/Debug-iphonesimulator/view435.app/view435
+t1298561126
+s17508
+
+N/Users/mac/Documents/view435/build/Debug-iphonesimulator/view435.app/view435ViewController.nib
+t1298561123
+s795
+
+N/Users/mac/Documents/view435/build/view435.build/Debug-iphonesimulator/view435.build/Objects-normal/i386/main.o
+t1298561125
+s6284
+
+N/Users/mac/Documents/view435/build/view435.build/Debug-iphonesimulator/view435.build/Objects-normal/i386/view435.LinkFileList
+c000000004D667862000000000000016F
+t1298561122
+s367
+
+N/Users/mac/Documents/view435/build/view435.build/Debug-iphonesimulator/view435.build/Objects-normal/i386/view435AppDelegate.o
+t1298561126
+s50944
+
+N/Users/mac/Documents/view435/build/view435.build/Debug-iphonesimulator/view435.build/Objects-normal/i386/view435ViewController.o
+t1298561126
+s39048
+
+N/Users/mac/Documents/view435/main.m
+c000000004D6671C20000000000000160
+t1298559426
+s352
+i<UIKit/UIKit.h>
+
+N/Users/mac/Documents/view435/view435ViewController.xib
+c000000004D6671C20000000000001A45
+t1298559426
+s6725
+
+N/Users/mac/Documents/view435/view435_Prefix.pch
+c000000004D6671C200000000000000B7
+t1298559426
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/7u/7uJ+y36XGnyfZ9WQYgmDFk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/view435_Prefix-cuowgvfcacnsudbnfdfbdmolvlny/view435_Prefix.pch.gch
+t1298561125
+s10360536
+
+Nview435-Info.plist
+c000000004D6671C2000000000000038D
+t1298559426
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies320253921#320253922#0(0"0(0#1#0"4255560#0"0#
+
+CCompileC build/view435.build/Debug-iphonesimulator/view435.build/Objects-normal/i386/main.o /Users/mac/Documents/view435/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320253925.693555
+e320253925.951717
+r1
+xCompileC
+xbuild/view435.build/Debug-iphonesimulator/view435.build/Objects-normal/i386/main.o
+x/Users/mac/Documents/view435/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@43"Compile /Users/mac/Documents/view435/main.m320253925#320253925#0(0"0(0#0#35"/Users/mac/Documents/view435/main.m2435216016#1804"    cd /Users/mac/Documents/view435    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mac/Documents/view435/build/view435.build/Debug-iphonesimulator/view435.build/view435-generated-files.hmap -I/Users/mac/Documents/view435/build/view435.build/Debug-iphonesimulator/view435.build/view435-own-target-headers.hmap -I/Users/mac/Documents/view435/build/view435.build/Debug-iphonesimulator/view435.build/view435-all-target-headers.hmap -iquote /Users/mac/Documents/view435/build/view435.build/Debug-iphonesimulator/view435.build/view435-project-headers.hmap -F/Users/mac/Documents/view435/build/Debug-iphonesimulator -I/Users/mac/Documents/view435/build/Debug-iphonesimulator/include -I/Users/mac/Documents/view435/build/view435.build/Debug-iphonesimulator/view435.build/DerivedSources/i386 -I/Users/mac/Documents/view435/build/view435.build/Debug-iphonesimulator/view435.build/DerivedSources -include /var/folders/7u/7uJ+y36XGnyfZ9WQYgmDFk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/view435_Prefix-cuowgvfcacnsudbnfdfbdmolvlny/view435_Prefix.pch -c /Users/mac/Documents/view435/main.m -o /Users/mac/Documents/view435/build/view435.build/Debug-iphonesimulator/view435.build/Objects-normal/i386/main.o0#
+
+CCompileC build/view435.build/Debug-iphonesimulator/view435.build/Objects-normal/i386/view435AppDelegate.o /Users/mac/Documents/view435/Classes/view435AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320253925.951892
+e320253926.194252
+r1
+xCompileC
+xbuild/view435.build/Debug-iphonesimulator/view435.build/Objects-normal/i386/view435AppDelegate.o
+x/Users/mac/Documents/view435/Classes/view435AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/mac/Documents/view435/Classes/view435AppDelegate.m320253925#320253926#0(0"0(0#0#57"/Users/mac/Documents/view435/Classes/view435AppDelegate.m2435216016#1840"    cd /Users/mac/Documents/view435    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mac/Documents/view435/build/view435.build/Debug-iphonesimulator/view435.build/view435-generated-files.hmap -I/Users/mac/Documents/view435/build/view435.build/Debug-iphonesimulator/view435.build/view435-own-target-headers.hmap -I/Users/mac/Documents/view435/build/view435.build/Debug-iphonesimulator/view435.build/view435-all-target-headers.hmap -iquote /Users/mac/Documents/view435/build/view435.build/Debug-iphonesimulator/view435.build/view435-project-headers.hmap -F/Users/mac/Documents/view435/build/Debug-iphonesimulator -I/Users/mac/Documents/view435/build/Debug-iphonesimulator/include -I/Users/mac/Documents/view435/build/view435.build/Debug-iphonesimulator/view435.build/DerivedSources/i386 -I/Users/mac/Documents/view435/build/view435.build/Debug-iphonesimulator/view435.build/DerivedSources -include /var/folders/7u/7uJ+y36XGnyfZ9WQYgmDFk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/view435_Prefix-cuowgvfcacnsudbnfdfbdmolvlny/view435_Prefix.pch -c /Users/mac/Documents/view435/Classes/view435AppDelegate.m -o /Users/mac/Documents/view435/build/view435.build/Debug-iphonesimulator/view435.build/Objects-normal/i386/view435AppDelegate.o0#
+
+CCompileC build/view435.build/Debug-iphonesimulator/view435.build/Objects-normal/i386/view435ViewController.o /Users/mac/Documents/view435/Classes/view435ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320253926.194505
+e320253926.312271
+r1
+xCompileC
+xbuild/view435.build/Debug-iphonesimulator/view435.build/Objects-normal/i386/view435ViewController.o
+x/Users/mac/Documents/view435/Classes/view435ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/mac/Documents/view435/Classes/view435ViewController.m320253926#320253926#0(0"0(0#0#60"/Users/mac/Documents/view435/Classes/view435ViewController.m2435216016#1846"    cd /Users/mac/Documents/view435    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mac/Documents/view435/build/view435.build/Debug-iphonesimulator/view435.build/view435-generated-files.hmap -I/Users/mac/Documents/view435/build/view435.build/Debug-iphonesimulator/view435.build/view435-own-target-headers.hmap -I/Users/mac/Documents/view435/build/view435.build/Debug-iphonesimulator/view435.build/view435-all-target-headers.hmap -iquote /Users/mac/Documents/view435/build/view435.build/Debug-iphonesimulator/view435.build/view435-project-headers.hmap -F/Users/mac/Documents/view435/build/Debug-iphonesimulator -I/Users/mac/Documents/view435/build/Debug-iphonesimulator/include -I/Users/mac/Documents/view435/build/view435.build/Debug-iphonesimulator/view435.build/DerivedSources/i386 -I/Users/mac/Documents/view435/build/view435.build/Debug-iphonesimulator/view435.build/DerivedSources -include /var/folders/7u/7uJ+y36XGnyfZ9WQYgmDFk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/view435_Prefix-cuowgvfcacnsudbnfdfbdmolvlny/view435_Prefix.pch -c /Users/mac/Documents/view435/Classes/view435ViewController.m -o /Users/mac/Documents/view435/build/view435.build/Debug-iphonesimulator/view435.build/Objects-normal/i386/view435ViewController.o0#
+
+CCompileXIB /Users/mac/Documents/view435/MainWindow.xib
+s320253922.109331
+e320253923.303716
+r1
+xCompileXIB
+x/Users/mac/Documents/view435/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib320253922#320253923#0(0"0(0#0#43"/Users/mac/Documents/view435/MainWindow.xib4742288#540"    cd /Users/mac/Documents/view435    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mac/Documents/view435/build/Debug-iphonesimulator/view435.app/MainWindow.nib /Users/mac/Documents/view435/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/mac/Documents/view435/view435ViewController.xib
+s320253923.303814
+e320253923.761775
+r1
+xCompileXIB
+x/Users/mac/Documents/view435/view435ViewController.xib
+lSLF07#2@36"CompileXIB view435ViewController.xib320253923#320253923#0(0"0(0#0#54"/Users/mac/Documents/view435/view435ViewController.xib2435216016#562"    cd /Users/mac/Documents/view435    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mac/Documents/view435/build/Debug-iphonesimulator/view435.app/view435ViewController.nib /Users/mac/Documents/view435/view435ViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/mac/Documents/view435/build/Debug-iphonesimulator/view435.app.dSYM /Users/mac/Documents/view435/build/Debug-iphonesimulator/view435.app/view435
+s320253926.787226
+e320253926.906080
+r1
+xGenerateDSYMFile
+x/Users/mac/Documents/view435/build/Debug-iphonesimulator/view435.app.dSYM
+x/Users/mac/Documents/view435/build/Debug-iphonesimulator/view435.app/view435
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/view435.app.dSYM build/Debug-iphonesimulator/view435.app/view435320253926#320253926#0(0"0(0#0#76"/Users/mac/Documents/view435/build/Debug-iphonesimulator/view435.app/view4352435216016#353"    cd /Users/mac/Documents/view435    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/mac/Documents/view435/build/Debug-iphonesimulator/view435.app/view435 -o /Users/mac/Documents/view435/build/Debug-iphonesimulator/view435.app.dSYM0#
+
+CLd /Users/mac/Documents/view435/build/Debug-iphonesimulator/view435.app/view435 normal i386
+s320253926.312376
+e320253926.787057
+r1
+xLd
+x/Users/mac/Documents/view435/build/Debug-iphonesimulator/view435.app/view435
+xnormal
+xi386
+lSLF07#2@81"Link /Users/mac/Documents/view435/build/Debug-iphonesimulator/view435.app/view435320253926#320253926#0(0"0(0#0#0"2435216016#850"    cd /Users/mac/Documents/view435    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/mac/Documents/view435/build/Debug-iphonesimulator -F/Users/mac/Documents/view435/build/Debug-iphonesimulator -filelist /Users/mac/Documents/view435/build/view435.build/Debug-iphonesimulator/view435.build/Objects-normal/i386/view435.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/mac/Documents/view435/build/Debug-iphonesimulator/view435.app/view4350#
+
+CProcessInfoPlistFile /Users/mac/Documents/view435/build/Debug-iphonesimulator/view435.app/Info.plist view435-Info.plist
+s320253922.050053
+e320253922.109177
+r1
+xProcessInfoPlistFile
+x/Users/mac/Documents/view435/build/Debug-iphonesimulator/view435.app/Info.plist
+xview435-Info.plist
+lSLF07#2@26"Process view435-Info.plist320253922#320253922#0(0"0(0#0#47"/Users/mac/Documents/view435/view435-Info.plist4255560#449"    cd /Users/mac/Documents/view435    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility view435-Info.plist -genpkginfo /Users/mac/Documents/view435/build/Debug-iphonesimulator/view435.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/mac/Documents/view435/build/Debug-iphonesimulator/view435.app/Info.plist0#
+
+CProcessPCH /var/folders/7u/7uJ+y36XGnyfZ9WQYgmDFk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/view435_Prefix-cuowgvfcacnsudbnfdfbdmolvlny/view435_Prefix.pch.gch view435_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s320253923.762027
+e320253925.693268
+r1
+xProcessPCH
+x/var/folders/7u/7uJ+y36XGnyfZ9WQYgmDFk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/view435_Prefix-cuowgvfcacnsudbnfdfbdmolvlny/view435_Prefix.pch.gch
+xview435_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile view435_Prefix.pch320253923#320253925#0(0"0(0#0#47"/Users/mac/Documents/view435/view435_Prefix.pch2435216016#1706"    cd /Users/mac/Documents/view435    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mac/Documents/view435/build/view435.build/Debug-iphonesimulator/view435.build/view435-generated-files.hmap -I/Users/mac/Documents/view435/build/view435.build/Debug-iphonesimulator/view435.build/view435-own-target-headers.hmap -I/Users/mac/Documents/view435/build/view435.build/Debug-iphonesimulator/view435.build/view435-all-target-headers.hmap -iquote /Users/mac/Documents/view435/build/view435.build/Debug-iphonesimulator/view435.build/view435-project-headers.hmap -F/Users/mac/Documents/view435/build/Debug-iphonesimulator -I/Users/mac/Documents/view435/build/Debug-iphonesimulator/include -I/Users/mac/Documents/view435/build/view435.build/Debug-iphonesimulator/view435.build/DerivedSources/i386 -I/Users/mac/Documents/view435/build/view435.build/Debug-iphonesimulator/view435.build/DerivedSources -c /Users/mac/Documents/view435/view435_Prefix.pch -o /var/folders/7u/7uJ+y36XGnyfZ9WQYgmDFk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/view435_Prefix-cuowgvfcacnsudbnfdfbdmolvlny/view435_Prefix.pch.gch0#
+
+CTouch /Users/mac/Documents/view435/build/Debug-iphonesimulator/view435.app
+s320253926.906246
+e320253926.983239
+r1
+xTouch
+x/Users/mac/Documents/view435/build/Debug-iphonesimulator/view435.app
+lSLF07#2@74"Touch /Users/mac/Documents/view435/build/Debug-iphonesimulator/view435.app320253926#320253926#0(0"0(0#0#0"2435216016#258"    cd /Users/mac/Documents/view435    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/mac/Documents/view435/build/Debug-iphonesimulator/view435.app0#
+

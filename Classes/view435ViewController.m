@@ -19,13 +19,22 @@
 
 - (IBAction) changeBackground:(id) sender {
 	NSDictionary *keyWindowDescription = [[[UIApplication sharedApplication] keyWindow] fullDescription];
-	BOOL value = [keyWindowDescription writeToFile:@"/Users/Jkt610/Desktop/test.txt" atomically:YES];
-	NSLog(@"%d",value);
-	//NSMutableDictionary *allKeys = [keyWindowDescription objectForKey:@"subviews"];
-	//for (int i = 0; i < [allKeys count]; i++) {
-	//	NSLog(@"Num keys: %@", [allKeys objectAtIndex:i]);
-	//}
-	//self.view.backgroundColor = [backColors objectAtIndex:index];
+	NSArray *subViewArray = [[NSArray alloc] initWithArray:[keyWindowDescription valueForKey:@"subviews"]];
+	NSDictionary *subviews = [subViewArray objectAtIndex:0];
+	NSArray *elementsArray = [[NSArray alloc] initWithArray:[subviews valueForKey:@"subviews"]];
+
+	NSMutableArray *buttonArray = [[NSMutableArray alloc] init];
+	
+	for (int i = 0; i < [elementsArray count]; i++ ) {
+		NSDictionary *currDict = [elementsArray objectAtIndex:i];
+		if ([[currDict valueForKey:@"className"] isEqualToString:@"UIRoundedRectButton"])
+			[buttonArray addObject:[elementsArray objectAtIndex:i]];
+		
+	}
+	
+	[buttonArray writeToFile:@"/Users/mac/Desktop/subviews.xml" atomically:YES];
+	
+	NSLog(@"Called");
 }
 
 
